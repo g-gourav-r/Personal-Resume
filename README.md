@@ -1,2 +1,2 @@
 # Personal-Resume
-This is my personal Resume CV designed using Bootstrap and hosted on www.gouravr.netlify.app 
+This is my personal Resume CV designed using Bootstrap and hosted on https://gouravr.netlify.app/
